@@ -26,3 +26,7 @@ npm start
 4. Insert your phone into any Google Cardboard certificed VR headset.
 
 5. Enjoy!
+
+## Demo 
+
+Video : [link](https://www.youtube.com/watch?v=zCNRhh17PBA&feature=youtu.be)
