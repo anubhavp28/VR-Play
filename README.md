@@ -1,5 +1,7 @@
 # VR-Play
 
+![VR-Play](https://img.youtube.com/vi/zCNRhh17PBA/maxresdefault.jpg)
+
 VR-Play is a visual programming language (similar to Scratch) for creating 3D stories, animations and games. It help children learn fundamentals of computer programming (loops, conditions, algorithms, etc) while having fun.
 
 Disclaimer : Most of the code in this repo was written at a 24 hour hackathon (InOut 6.0). The code quality is very poor, and I will be fixing the code quality in the days to come. 
