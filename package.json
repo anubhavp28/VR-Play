@@ -1,0 +1,17 @@
+{
+  "name": "trumpact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server --host=0.0.0.0 --mount=/models:./models --https=/usr/lib/node_modules/live-server-https ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aframe-extras": "^6.0.1",
+    "aframe-watcher": "^1.4.0",
+    "live-server": "^1.2.1"
+  }
+}
